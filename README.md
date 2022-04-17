@@ -4,6 +4,8 @@ https://codeforces.com/group/H0qY3QmnOW/blog
 這是NHDK-Ten-Point-Round非官方答案
 會努力地解完的
 
+主要會以C++來寫
+
 有分 
 Div. 1 困難
 Div. 2 普通
